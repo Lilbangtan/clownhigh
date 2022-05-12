@@ -1,0 +1,14 @@
+body {
+	background:royalblue;
+	font-family: monospace;
+}
+
+h2 {
+	color: #555;
+}
+
+p {
+	background: #666;
+	color: white;
+	padding: 10px;
+}
